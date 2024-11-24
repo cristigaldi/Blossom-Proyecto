@@ -15,23 +15,6 @@ Visit the site here: Blossom Floristería
 <strong>Netlify:</strong> Used to deploy the website.
 <strong>Nicepage:</strong> Mention if you used this or another tool for prototyping.
 
-<h2>📂 Project Structure</h2>
-
-BlossomFloristeria/
-│
-├── index.html       # Main page
-├── styles/
-│   ├── main.css     # Main CSS file
-│   ├── responsive.css  # Styles for mobile devices
-├── scripts/
-│   ├── main.js      # Main JavaScript file
-├── assets/
-│   ├── images/      # Folder for site images
-│   ├── fonts/       # Custom fonts
-└── README.md        # Project documentation
-
-
-
 <h2>🎨 Features</h2>
 <strong>🌻 Modern and user-friendly interface:</strong> A clean and visually appealing design.
 <strong>📱 Responsive Design:</strong> (Planned for future development).
